@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Cozie, a Fitbit Clockface for IEQ and physiological data collection',
+  title: 'TEST TEST TEST Cozie, a Fitbit Clockface for IEQ and physiological data collection',
   tagline: 'Allows building occupants to provide feedback in real time',
   url: 'https://cozie.app/',
   baseUrl: '/',
@@ -30,7 +30,7 @@ const config = {
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
+      /* @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
@@ -47,7 +47,7 @@ const config = {
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    /* @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
         title: 'Cozie',
@@ -76,7 +76,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Introduction to cozie',
+                label: 'Introduction to Cozie',
                 to: '/docs/home',
               },
             ],
