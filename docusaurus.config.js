@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'cozie-app', // Usually your GitHub org/user name.
+  organizationName: 'mariofrei', // Usually your GitHub org/user name.
   projectName: 'cozie', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
